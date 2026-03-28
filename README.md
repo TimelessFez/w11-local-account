@@ -1,6 +1,6 @@
 # All Windows 11 Bypasses to Create a Local Account
 
-# A. External methods:
+## A. External methods:
 
 ### Use Rufus to modify ISO
 Check/tick the "Remove requirement for an online account" box. It will appear in the "Windows User Experience" alert after pressing the 'START' button.
@@ -10,7 +10,7 @@ Check/tick the "Remove requirement for an online account" box. It will appear in
 https://schneegans.de/windows/unattend-generator/
 ```
 
-# B. Installer methods:
+## B. Installer methods:
 
 ‼️ Keep Ethernet cable unplugged and do not connect to a Wi-Fi network, unless specified.
 
